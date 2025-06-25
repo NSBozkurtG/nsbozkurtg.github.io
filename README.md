@@ -11,15 +11,17 @@ I’ve worked in the financial sector, helping teams turn raw data into actionab
 
 ## 🚀 Projects
 
-### 🌧️ [Rainfall Prediction](https://github.com/your-username/rainfall-prediction)  
+### 🌧️ [Rainfall Prediction](https://github.com/NSBozkurtG/rainfall-prediction)  
 Binary classification model predicting rainfall using Australian weather data.  
 Tools: `scikit-learn`, `pandas`, `GridSearchCV`, feature engineering.
 
-### 🏃‍♀️ [Triathlon Fatigue Risk Tracker](https://github.com/your-username/triathlon-fatigue)  
+### 🏃‍♀️ [Triathlon Fatigue Risk Tracker](https://github.com/NSBozkurtG/triathlon-fatigue)  
 Personal analytics project using Garmin data to analyze training load and fatigue.  
 Tools: `Python`, `pandas`, `ACWR`, data visualization.
 
 ---
+###  [Analyzing Stock Performances] (https://github.com/NSBozkurtG/analyzing-stock-performances)
+Tools: `Python`, `pandas`, `plotly`, data visualization.
 
 ## 🧠 Skills & Tools
 
