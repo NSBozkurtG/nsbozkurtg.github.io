@@ -20,7 +20,7 @@ Personal analytics project using Garmin data to analyze training load and fatigu
 Tools: `Python`, `pandas`, `ACWR`, data visualization.
 
 ---
-###  [Analyzing Stock Performances] (https://github.com/NSBozkurtG/analyzing-stock-performances)
+###  [Analyzing Stock Performances](https://github.com/NSBozkurtG/analyzing-stock-performances)
 Tools: `Python`, `pandas`, `plotly`, data visualization.
 
 ## 🧠 Skills & Tools
